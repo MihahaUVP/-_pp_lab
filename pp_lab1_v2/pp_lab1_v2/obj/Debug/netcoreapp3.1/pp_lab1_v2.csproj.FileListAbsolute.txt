@@ -1,0 +1,13 @@
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.exe
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.deps.json
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.runtimeconfig.json
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.runtimeconfig.dev.json
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.dll
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\bin\Debug\netcoreapp3.1\pp_lab1_v2.pdb
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.csprojAssemblyReference.cache
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.AssemblyInfoInputs.cache
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.AssemblyInfo.cs
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.csproj.CoreCompileInputs.cache
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.dll
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.pdb
+C:\Users\миша\source\repos\pp_lab1_v2\pp_lab1_v2\obj\Debug\netcoreapp3.1\pp_lab1_v2.genruntimeconfig.cache
